@@ -4,7 +4,7 @@ import model from '../models/authModelo';
 import { utils } from "../utils/utils";
 import jwt from 'jsonwebtoken';
 import db from '../utils/database';
-
+// Prueba github
 class AuthController {
 
     /**
